@@ -107,11 +107,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist | Mathematician | Musician"
   location         : "Currently: Toronto, Ontario, Canada"
-  email            :
+  email            : "benpolasek@hotmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:benpolasek@hotmail.com
+       url: "mailto:benpolasek@hotmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -298,4 +298,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
