@@ -111,7 +111,7 @@ author:
   links:
     - label: "e-mail"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:benpolasek@hotmail.com
+       #url: "mailto:benpolasek@hotmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
