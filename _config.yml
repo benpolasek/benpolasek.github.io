@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Ben Polasek"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /images/nasa.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist | Mathematician | Musician | Traveler"
   location         : "Toronto, Ontario, Canada"
   email            :  "benpolasek@hotmail.com"
