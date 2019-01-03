@@ -1,8 +1,8 @@
-___
+---
 title: "About"
 permalink: /about/
 header:
-  image: "/images/venice.jpg"
-___
+  images: "/images/venice.jpg"
+---
 
 Data Scientist
