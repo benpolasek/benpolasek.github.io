@@ -1,8 +1,8 @@
 ---
 title: "About"
-permalink: /about/
+permalink: _pages/about/
 header:
-  images: "/images/venice.jpg"
+  images: "/images/venice.JPG"
 ---
 
 Data Scientist
