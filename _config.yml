@@ -109,7 +109,7 @@ author:
   location         : "Toronto, Ontario, Canada"
   email            :  "benpolasek@hotmail.com"
   links:
-    - label: "e-mail me"
+    - label: "Get in touch"
       icon: "fas fa-fw fa-envelope-square"
        url: mailto:benpolasek@hotmail.com
     - label: "Website"
