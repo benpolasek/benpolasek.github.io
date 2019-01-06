@@ -130,7 +130,7 @@ author:
 
 # Site header
 header:
-    image: /assets/images/thompson.png
+    image: /images/thompson.png
 
 
 # Site Footer
@@ -295,7 +295,7 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+
   # _pages
   - scope:
       path: ""
