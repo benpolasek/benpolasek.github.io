@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Ben Polasek"
-  avatar           : "/images/venice.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/venice.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist | Mathematician | Musician | Adventurer"
   location         : "Toronto, Ontario, Canada"
   email            :  "benpolasek@hotmail.com"
@@ -290,6 +290,9 @@ defaults:
       comments: # true
       share: true
       related: true
+      header:
+        overlay_image: /assets/images/unsplash-image-1.jpg
+        overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   # _pages
   - scope:
       path: ""
