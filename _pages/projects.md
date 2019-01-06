@@ -2,6 +2,6 @@
 title: "Projects"
 permalink: /projects/
 header:
-  image: "/images/venice.JPG"
+  image: "/images/thompson.png"
 ---
 Add projects

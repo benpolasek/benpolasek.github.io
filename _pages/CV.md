@@ -2,6 +2,6 @@
 title: "CV"
 permalink: /CV/
 header:
-  image: "/images/venice.JPG"
+  image: "/images/thompson.png"
 ---
 Add CV
