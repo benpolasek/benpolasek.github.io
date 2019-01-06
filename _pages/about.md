@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  images: "/assets/images/venice.JPG"
+  image: "/assets/images/venice.JPG"
 ---
 
 Bio to be added
